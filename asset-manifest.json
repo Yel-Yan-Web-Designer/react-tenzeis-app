@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tenzeis-app/static/css/main.dcc991d5.css",
+    "main.js": "/react-tenzeis-app/static/js/main.a5e41b56.js",
+    "static/js/787.3e0cc775.chunk.js": "/react-tenzeis-app/static/js/787.3e0cc775.chunk.js",
+    "index.html": "/react-tenzeis-app/index.html",
+    "main.dcc991d5.css.map": "/react-tenzeis-app/static/css/main.dcc991d5.css.map",
+    "main.a5e41b56.js.map": "/react-tenzeis-app/static/js/main.a5e41b56.js.map",
+    "787.3e0cc775.chunk.js.map": "/react-tenzeis-app/static/js/787.3e0cc775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc991d5.css",
+    "static/js/main.a5e41b56.js"
+  ]
+}
