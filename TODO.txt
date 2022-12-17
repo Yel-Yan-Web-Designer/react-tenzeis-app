@@ -1,0 +1,27 @@
+What I will Use:
+- Create React App
+- Components
+- State / useState Hook
+- Side Effects / useEffect Hook
+- Conditional Rendering
+- Local storage
+- External packages : nanoid, react confitti
+- Js Array iteration methods: for loop, map, every
+- Css grid, flex display
+
+New Features add challenge: 
+- Put real dots with Css in Die  // Done
+- Track Best time & time count // 
+- Set Attempts // Done
+- Save Local storage // Done
+
+
+State
+- dice State for generating dices
+- tenzies State for game winning
+- stats State for time count & Attempts
+- bestTime for best time record saving in local storage
+
+Components
+- Die Component
+- Stats Component for time count, best time
